@@ -1,0 +1,159 @@
+<resources>
+    <string name="txt1">Name</string>
+    <string name="txt2">No. Of Questions</string>
+    <string name="btn">Start Quiz</string>
+    <string name="nextBtn">Next Question</string>
+    <string name="nameHint">Write your Name</string>
+    <string-array name="questions_array">
+        <item>10</item>
+        <item>15</item>
+        <item>20</item>
+        <item>25</item>
+        <item>30</item>
+    </string-array>
+    <string name="app_name">Quiz App</string>
+
+    <string name="q1">EU is abbreviation of: </string>
+    <string name="q2">Register is used to store: </string>
+    <string name="q3">BCD is abbreviation of: </string>
+    <string name="q4">EA is abbreviation of: </string>
+    <string name="q5">The first level of memory accessed by the microprocessor: </string>
+    <string name="q6">DIP stands for: </string>
+    <string name="q7">SI stands for: </string>
+    <string name="q8">HTML stands for: </string>
+    <string name="q9">CSS is what type of language? </string>
+    <string name="q10">HTML is what type of language? </string>
+    <string name="q11">Brain of Computer is: </string>
+    <string name="q12">If a process fails, most operating system writes the error information to a: </string>
+    <string name="q13">The OS X has what type of Kernel? </string>
+    <string name="q14">Which is considered to be the most optimal scheduling algorithm? </string>
+    <string name="q15">Father of Internet is: </string>
+    <string name="q16">Father of Computer is: </string>
+    <string name="q17">The term "Computer" is derived from: </string>
+    <string name="q18">WWW stands for: </string>
+    <string name="q19">Which technology is used in compact disks? </string>
+    <string name="q20">1 GB = </string>
+    <string name="q21">The computer that process both analog and digital is called: </string>
+    <string name="q22">CD-ROM stands for: </string>
+    <string name="q23">ALU stands for: </string>
+    <string name="q24">VGA stands for: </string>
+    <string name="q25">"WAN stands for: "</string>
+    <string name="q26">Father of Computer Science: </string>
+    <string name="q27">The first computers were programmed using: </string>
+    <string name="q28">You can organize files by storing them in: </string>
+    <string name="q29">What is a Light Pen? </string>
+    <string name="q30">UNIVAC stands for: </string>
+
+
+
+    <string name="ca1">Execution Unit</string>
+    <string name="ca2">Data</string>
+    <string name="ca3">Binary Coded Decimal</string>
+    <string name="ca4">Effective Address</string>
+    <string name="ca5">Cache Memory</string>
+    <string name="ca6">Dual Inline Package</string>
+    <string name="ca7">Source Index</string>
+    <string name="ca8">Hypertext Markup Language</string>
+    <string name="ca9">Styling</string>
+    <string name="ca10">Markup</string>
+    <string name="ca11">CPU</string>
+    <string name="ca12">Log File</string>
+    <string name="ca13">Hybrid Kernel</string>
+    <string name="ca14">SJF</string>
+    <string name="ca15">Vint Cerf</string>
+    <string name="ca16">Charles Babbage</string>
+    <string name="ca17">Latin</string>
+    <string name="ca18">World Wide Web</string>
+    <string name="ca19">Laser</string>
+    <string name="ca20">1024 MB</string>
+    <string name="ca21">Hybrid</string>
+    <string name="ca22">Compact Disk Read Only Memory</string>
+    <string name="ca23">Arithmetic Logic Unit</string>
+    <string name="ca24">Video Graphics Array</string>
+    <string name="ca25">Wide Area Network</string>
+    <string name="ca26">Allen Turing</string>
+    <string name="ca27">Machine Language</string>
+    <string name="ca28">Folders</string>
+    <string name="ca29">Optical Input Device</string>
+    <string name="ca30">Universal Automatic Computer</string>
+
+
+
+    <string name="all">All of These</string>
+    <string name="none">None of These</string>
+    <string name="ch1">Execute Unit</string>
+    <string name="ch2">Exchange Unit</string>
+    <string name="ch3">Memory</string>
+    <string name="ch4">Operands</string>
+    <string name="ch5">Binary Coded Decoded</string>
+    <string name="ch6">Both a &amp; b</string>
+    <string name="ch7">Electrical Address</string>
+    <string name="ch8">Effect Address</string>
+    <string name="ch9">Main Memory</string>
+    <string name="ch10">Data Memory</string>
+    <string name="ch11">Dead Inline Package</string>
+    <string name="ch12">Direct Inline Package</string>
+    <string name="ch13">Digital Inline Package</string>
+    <string name="ch14">Stand Index</string>
+    <string name="ch15">Segment Index</string>
+    <string name="ch16">Simple Index</string>
+    <string name="ch17">Hyper Language</string>
+    <string name="ch18">Styling Language</string>
+    <string name="ch19">Markup</string>
+    <string name="ch20">Scripting</string>
+    <string name="ch21">Dynamic</string>
+    <string name="ch22">Styling</string>
+    <string name="ch23">Scripting</string>
+    <string name="ch24">Static</string>
+    <string name="ch25">CU</string>
+    <string name="ch26">MU</string>
+    <string name="ch27">Operating System</string>
+    <string name="ch28">.txt file</string>
+    <string name="ch29">.py file</string>
+    <string name="ch30">docx file</string>
+    <string name="ch31">Kernel</string>
+    <string name="ch32">Simple Kernel</string>
+    <string name="ch33">FCFS</string>
+    <string name="ch34">RR</string>
+    <string name="ch35">Charles Babbage</string>
+    <string name="ch36">Tom Bradman</string>
+    <string name="ch37">Shahid Afridi</string>
+    <string name="ch38">Tom Cruise</string>
+    <string name="ch39">Vint Cerf</string>
+    <string name="ch40">Imran Khan</string>
+    <string name="ch41">Greek</string>
+    <string name="ch42">Turkish</string>
+    <string name="ch43">German</string>
+    <string name="ch44">Wide World Web</string>
+    <string name="ch45">Win World Web</string>
+    <string name="ch46">Thermal</string>
+    <string name="ch47">Electric</string>
+    <string name="ch48">1000 MB</string>
+    <string name="ch49">10000 MB</string>
+    <string name="ch50">Digital</string>
+    <string name="ch51">Analog</string>
+    <string name="ch52">Carry Disk Run Only Memory</string>
+    <string name="ch53">Common Disk Read Only Memory</string>
+    <string name="ch54">Arithmetic Long Unit</string>
+    <string name="ch55">Add Logic Unit</string>
+    <string name="ch56">Visual Graphics Array</string>
+    <string name="ch57">Vim Graphics Array</string>
+    <string name="ch58">World Area Network</string>
+    <string name="ch59">Win Area Network</string>
+    <string name="ch60">Charles Babbage</string>
+    <string name="ch61">Donald Trump</string>
+    <string name="ch62">Shahid Afridi</string>
+    <string name="ch63">Assembly Language</string>
+    <string name="ch64">High Level Language</string>
+    <string name="ch65">Files</string>
+    <string name="ch66">Desktop</string>
+    <string name="ch67">Optical Output Device</string>
+    <string name="ch68">Laser Input Device</string>
+    <string name="ch69">Universal Computer</string>
+    <string name="ch70">Universal Calculator</string>
+
+
+
+
+
+</resources>
