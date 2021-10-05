@@ -1,6 +1,7 @@
 # Sample Images
 
-![Quiz App Start](quiz-app-1.jpg)
-![Quiz App Question](quiz-app-2.jpg)
-![Quiz App End](quiz-app-3.jpg)
-![Quiz App Score](quiz-app-4.jpg)
+<img src="quiz-app-1.jpg" alt="Quiz App Start" width="200" height="500px"/>
+<img src="quiz-app-2.jpg" alt="Quiz App Question" width="200" height="500px"/>
+
+<img src="quiz-app-3.jpg" alt="Quiz App End" width="200" height="500px"/>
+<img src="quiz-app-4.jpg" alt="Quiz App Score" width="200" height="500px"/>
